@@ -79,20 +79,22 @@ After enabling static hosting, access your website using:
 http://mybucketofresume.s3-website-us-east-1.amazonaws.com
 
 📌 Key Learnings
+
 Hosting static websites without servers
 
-Configuring S3 bucket policies
+-Configuring S3 bucket policies
 
-Understanding public access control in AWS
+-Understanding public access control in AWS
 
-Cost-effective cloud deployment
+-Cost-effective cloud deployment
 
 💰 Cost
-Free Tier eligible
 
-No charges when idle
+-Free Tier eligible
 
-Pay only for storage and minimal requests
+-No charges when idle
+
+-Pay only for storage and minimal requests
 
 👩‍💻 Author
 Priyanka Raut
