@@ -72,7 +72,7 @@ Replace `your-bucket-name` in the policy below:
   ]
 }
 ````
-# Live Website
+### Live Website
 
 After enabling static hosting, access your website using:
 
@@ -82,19 +82,17 @@ http://mybucketofresume.s3-website-us-east-1.amazonaws.com
 
 Hosting static websites without servers
 
--Configuring S3 bucket policies
+- Configuring S3 bucket policies
 
--Understanding public access control in AWS
+- Understanding public access control in AWS
 
--Cost-effective cloud deployment
+- Cost-effective cloud deployment
 
 💰 Cost
 
--Free Tier eligible
-
--No charges when idle
-
--Pay only for storage and minimal requests
+ - Free Tier eligible
+ - No charges when idle
+ - Pay only for storage and minimal requests
 
 👩‍💻 Author
 Priyanka Raut
