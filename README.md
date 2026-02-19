@@ -71,10 +71,12 @@ Replace `your-bucket-name` in the policy below:
     }
   ]
 }
+
 🌍 Live Website
 After enabling static hosting, access your website using:
 
-http://your-bucket-name.s3-website-region.amazonaws.com
+http://mybucketofresume.s3-website-us-east-1.amazonaws.com
+
 📌 Key Learnings
 Hosting static websites without servers
 
