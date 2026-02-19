@@ -93,6 +93,7 @@ Hosting static websites without servers
  - Free Tier eligible
  - No charges when idle
  - Pay only for storage and minimal requests
+   ````
 
 👩‍💻 Author
 Priyanka Raut
