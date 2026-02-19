@@ -100,4 +100,4 @@ Hosting static websites without servers
 👩‍💻 Author
 Priyanka Raut
 
-DevOps Engineer | Cloud Enthusiast
+
