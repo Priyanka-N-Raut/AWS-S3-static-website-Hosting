@@ -72,7 +72,7 @@ Replace `your-bucket-name` in the policy below:
   ]
 }
 
-🌍 Live Website
+# Live Website
 After enabling static hosting, access your website using:
 
 http://mybucketofresume.s3-website-us-east-1.amazonaws.com
